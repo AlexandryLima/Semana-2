@@ -1,7 +1,9 @@
 fun main() {
-    var i = 1
-    while (i<10){
+    var i = 10
+    while (i > 0) {
+        i--
         println(i)
-        i = i + 2
+        i--
     }
+
 }

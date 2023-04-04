@@ -3,9 +3,12 @@
   <component name="AnalysisUIOptions">
     <option name="ANALYZE_INJECTED_CODE" value="false" />
   </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="fc4a8f6c-2365-438c-959d-9c621e1e90f5" name="Changes" comment="Exercicio 1 ( Questão 1)">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Exercicio 1 ( Questão2).kt" afterDir="false" />
+    <list default="true" id="fc4a8f6c-2365-438c-959d-9c621e1e90f5" name="Changes" comment="Exercicio 1 ( Questão 3)">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -87,11 +90,49 @@
       <option name="project" value="LOCAL" />
       <updated>1680567023433</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Exercicio 1 ( Questão 2)">
+      <created>1680567133301</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1680567133301</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Exercicio 1 ( Questão 3)">
+      <created>1680567287864</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1680567287864</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Exercicio 1 ( Questão 1)" />
-    <option name="LAST_COMMIT_MESSAGE" value="Exercicio 1 ( Questão 1)" />
+    <MESSAGE value="Exercicio 1 ( Questão 2)" />
+    <MESSAGE value="Exercicio 1 ( Questão 3)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Exercicio 1 ( Questão 3)" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="kotlin-function">
+          <url>file://$PROJECT_DIR$/src/main/kotlin/Exercicio 1 ( Questão 3).kt</url>
+          <properties method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-function">
+          <url>file://$PROJECT_DIR$/src/main/kotlin/Exercicio 1 ( Questâo1).kt</url>
+          <properties method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
