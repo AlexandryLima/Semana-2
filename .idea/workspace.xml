@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="ANALYZE_INJECTED_CODE" value="false" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="fc4a8f6c-2365-438c-959d-9c621e1e90f5" name="Changes" comment="Exercicio 1 ( Questão 1)">
       <change afterPath="$PROJECT_DIR$/src/main/kotlin/Exercicio 1 ( Questão2).kt" afterDir="false" />
@@ -32,7 +35,7 @@
     "run.code.analysis.last.selected.profile": "pProject Default"
   }
 }]]></component>
-  <component name="RunManager" selected="Kotlin.Exercicio_1___Questão2_Kt">
+  <component name="RunManager" selected="Kotlin.Exercicio_1___Questão_3_Kt">
     <configuration name="Exercicio_1___Questâo1_Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Exercicio_1___Questâo1_Kt" />
       <module name="Semana_2" />
@@ -48,12 +51,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Exercicio_1___Questão_3_Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exercicio_1___Questão_3_Kt" />
+      <module name="Semana_2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
       <item itemvalue="Kotlin.Exercicio_1___Questão2_Kt" />
+      <item itemvalue="Kotlin.Exercicio_1___Questão_3_Kt" />
       <item itemvalue="Kotlin.Exercicio_1___Questâo1_Kt" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.Exercicio_1___Questão_3_Kt" />
         <item itemvalue="Kotlin.Exercicio_1___Questão2_Kt" />
         <item itemvalue="Kotlin.Exercicio_1___Questâo1_Kt" />
       </list>
