@@ -3,5 +3,6 @@ fun main() {
     while (i<11){
         println(i)
         i++
+
     }
 }

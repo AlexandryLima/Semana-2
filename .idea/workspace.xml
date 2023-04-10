@@ -8,7 +8,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fc4a8f6c-2365-438c-959d-9c621e1e90f5" name="Changes" comment="Exercicio 1 ( Questão 3)">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Exercicio 2 ( Questão 1).kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Exercicio 1 ( Questâo1).kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Exercicio 1 ( Questâo1).kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,14 +33,15 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "run.code.analysis.last.selected.profile": "pProject Default"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Aluana/projetos 2/aula-git&quot;,
+    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Kotlin.Exercicio_1___Questão_3_Kt">
+}</component>
+  <component name="RunManager" selected="Kotlin.Exercicio_2___Questão_1_Kt">
     <configuration name="Exercicio_1___Questâo1_Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Exercicio_1___Questâo1_Kt" />
       <module name="Semana_2" />
@@ -61,13 +64,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Exercicio_2___Questão_1_Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exercicio_2___Questão_1_Kt" />
+      <module name="Semana_2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
+      <item itemvalue="Kotlin.Exercicio_2___Questão_1_Kt" />
       <item itemvalue="Kotlin.Exercicio_1___Questão2_Kt" />
       <item itemvalue="Kotlin.Exercicio_1___Questão_3_Kt" />
       <item itemvalue="Kotlin.Exercicio_1___Questâo1_Kt" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.Exercicio_2___Questão_1_Kt" />
         <item itemvalue="Kotlin.Exercicio_1___Questão_3_Kt" />
         <item itemvalue="Kotlin.Exercicio_1___Questão2_Kt" />
         <item itemvalue="Kotlin.Exercicio_1___Questâo1_Kt" />
@@ -104,7 +116,14 @@
       <option name="project" value="LOCAL" />
       <updated>1680567287864</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Exercicio 1 ( Questão 3)">
+      <created>1680568229374</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1680568229374</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -117,20 +136,20 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="kotlin-function">
-          <url>file://$PROJECT_DIR$/src/main/kotlin/Exercicio 1 ( Questão 3).kt</url>
-          <properties method="main">
-            <option name="EMULATED" value="true" />
-            <option name="WATCH_EXIT" value="false" />
-          </properties>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="kotlin-function">
           <url>file://$PROJECT_DIR$/src/main/kotlin/Exercicio 1 ( Questâo1).kt</url>
           <properties method="main">
             <option name="EMULATED" value="true" />
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-function">
+          <url>file://$PROJECT_DIR$/src/main/kotlin/Exercicio 1 ( Questão 3).kt</url>
+          <properties method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="3" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
