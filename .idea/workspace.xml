@@ -7,9 +7,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fc4a8f6c-2365-438c-959d-9c621e1e90f5" name="Changes" comment="Exercicio 2 ( Questão 1)">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Exercicio 2 (Questao 2).kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Exercicio 2 (Questao 2).kt" afterDir="false" />
+    <list default="true" id="fc4a8f6c-2365-438c-959d-9c621e1e90f5" name="Changes" comment="Exercicio 2 ( Questão 2)">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Exercicio  2 ( Questão3).kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,15 +39,7 @@
     &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;
   }
 }</component>
-  <component name="RunManager" selected="Kotlin.Exercicio_2__Questao_2_Kt">
-    <configuration name="Exercicio_1___Questâo1_Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Exercicio_1___Questâo1_Kt" />
-      <module name="Semana_2" />
-      <shortenClasspath name="NONE" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Kotlin.Exercicio__2___Questão3_Kt">
     <configuration name="Exercicio_1___Questão2_Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Exercicio_1___Questão2_Kt" />
       <module name="Semana_2" />
@@ -77,20 +68,27 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Exercicio__2___Questão3_Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exercicio__2___Questão3_Kt" />
+      <module name="Semana_2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
       <item itemvalue="Kotlin.Exercicio_2__Questao_2_Kt" />
+      <item itemvalue="Kotlin.Exercicio__2___Questão3_Kt" />
       <item itemvalue="Kotlin.Exercicio_2___Questão_1_Kt" />
       <item itemvalue="Kotlin.Exercicio_1___Questão2_Kt" />
       <item itemvalue="Kotlin.Exercicio_1___Questão_3_Kt" />
-      <item itemvalue="Kotlin.Exercicio_1___Questâo1_Kt" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.Exercicio__2___Questão3_Kt" />
         <item itemvalue="Kotlin.Exercicio_2__Questao_2_Kt" />
         <item itemvalue="Kotlin.Exercicio_2___Questão_1_Kt" />
         <item itemvalue="Kotlin.Exercicio_1___Questão_3_Kt" />
         <item itemvalue="Kotlin.Exercicio_1___Questão2_Kt" />
-        <item itemvalue="Kotlin.Exercicio_1___Questâo1_Kt" />
       </list>
     </recent_temporary>
   </component>
@@ -145,7 +143,14 @@
       <option name="project" value="LOCAL" />
       <updated>1681156063291</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Exercicio 2 ( Questão 2)">
+      <created>1681156740401</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1681156740401</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -153,7 +158,8 @@
     <MESSAGE value="Exercicio 1 ( Questão 2)" />
     <MESSAGE value="Exercicio 1 ( Questão 3)" />
     <MESSAGE value="Exercicio 2 ( Questão 1)" />
-    <option name="LAST_COMMIT_MESSAGE" value="Exercicio 2 ( Questão 1)" />
+    <MESSAGE value="Exercicio 2 ( Questão 2)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Exercicio 2 ( Questão 2)" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
