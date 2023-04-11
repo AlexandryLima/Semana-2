@@ -7,8 +7,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fc4a8f6c-2365-438c-959d-9c621e1e90f5" name="Changes" comment="Exercicio 2 ( Questão 3)">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Exercicio 3 ( Questão 2).kt" afterDir="false" />
+    <list default="true" id="fc4a8f6c-2365-438c-959d-9c621e1e90f5" name="Changes" comment="Exercicio 3 ( Questão 2)">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Exercicio 3 ( Questão 3).kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -40,16 +40,9 @@
     &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;
   }
 }</component>
-  <component name="RunManager" selected="Kotlin.Exercicio_3___Questão_2_Kt">
+  <component name="RunManager" selected="Kotlin.Exercicio_3___Questão_3_Kt">
     <configuration name="Exercicio_2__Questao_2_Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Exercicio_2__Questao_2_Kt" />
-      <module name="Semana_2" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Exercicio_2___Questão_1_Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Exercicio_2___Questão_1_Kt" />
       <module name="Semana_2" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -69,6 +62,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Exercicio_3___Questão_3_Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exercicio_3___Questão_3_Kt" />
+      <module name="Semana_2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Exercicio__2___Questão3_Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Exercicio__2___Questão3_Kt" />
       <module name="Semana_2" />
@@ -78,18 +78,18 @@
     </configuration>
     <list>
       <item itemvalue="Kotlin.Exercicio_3___Questão_2_Kt" />
+      <item itemvalue="Kotlin.Exercicio_3___Questão_3_Kt" />
       <item itemvalue="Kotlin.Exercicio_2__Questao_2_Kt" />
       <item itemvalue="Kotlin.Exercicio_3___Questão_1_Kt" />
       <item itemvalue="Kotlin.Exercicio__2___Questão3_Kt" />
-      <item itemvalue="Kotlin.Exercicio_2___Questão_1_Kt" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.Exercicio_3___Questão_3_Kt" />
         <item itemvalue="Kotlin.Exercicio_3___Questão_2_Kt" />
         <item itemvalue="Kotlin.Exercicio_3___Questão_1_Kt" />
         <item itemvalue="Kotlin.Exercicio__2___Questão3_Kt" />
         <item itemvalue="Kotlin.Exercicio_2__Questao_2_Kt" />
-        <item itemvalue="Kotlin.Exercicio_2___Questão_1_Kt" />
       </list>
     </recent_temporary>
   </component>
@@ -158,7 +158,14 @@
       <option name="project" value="LOCAL" />
       <updated>1681157328095</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Exercicio 3 ( Questão 2)">
+      <created>1681255208800</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1681255208800</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -168,7 +175,8 @@
     <MESSAGE value="Exercicio 2 ( Questão 1)" />
     <MESSAGE value="Exercicio 2 ( Questão 2)" />
     <MESSAGE value="Exercicio 2 ( Questão 3)" />
-    <option name="LAST_COMMIT_MESSAGE" value="Exercicio 2 ( Questão 3)" />
+    <MESSAGE value="Exercicio 3 ( Questão 2)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Exercicio 3 ( Questão 2)" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -196,14 +204,6 @@
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="5" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="kotlin-function">
-          <url>file://$PROJECT_DIR$/src/main/kotlin/Exercicio 3 ( Questão 2).kt</url>
-          <properties method="main">
-            <option name="EMULATED" value="true" />
-            <option name="WATCH_EXIT" value="false" />
-          </properties>
-          <option name="timeStamp" value="7" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
