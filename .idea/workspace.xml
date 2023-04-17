@@ -7,9 +7,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fc4a8f6c-2365-438c-959d-9c621e1e90f5" name="Changes" comment="Exercicio 3 ( Questão 2)">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Questão 4 (Exercício 1).kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="fc4a8f6c-2365-438c-959d-9c621e1e90f5" name="Changes" comment="Exercicio 4 ( Questão 2)">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Exercício 4 ( Questão 3).kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,16 +39,9 @@
     &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;
   }
 }</component>
-  <component name="RunManager" selected="Kotlin.Exerccicio_4__Questãoo_2_Kt">
+  <component name="RunManager" selected="Kotlin.Exercício_4___Questão_3_Kt">
     <configuration name="Exerccicio_4__Questãoo_2_Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Exerccicio_4__Questãoo_2_Kt" />
-      <module name="Semana_2" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Exercicio_3___Questão_1_Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Exercicio_3___Questão_1_Kt" />
       <module name="Semana_2" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -69,6 +61,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Exercício_4___Questão_3_Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exercício_4___Questão_3_Kt" />
+      <module name="Semana_2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Questão_4__Exercício_1_Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Questão_4__Exercício_1_Kt" />
       <module name="Semana_2" />
@@ -78,18 +77,18 @@
     </configuration>
     <list>
       <item itemvalue="Kotlin.Exerccicio_4__Questãoo_2_Kt" />
+      <item itemvalue="Kotlin.Exercício_4___Questão_3_Kt" />
       <item itemvalue="Kotlin.Questão_4__Exercício_1_Kt" />
       <item itemvalue="Kotlin.Exercicio_3___Questão_2_Kt" />
       <item itemvalue="Kotlin.Exercicio_3___Questão_3_Kt" />
-      <item itemvalue="Kotlin.Exercicio_3___Questão_1_Kt" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.Exercício_4___Questão_3_Kt" />
         <item itemvalue="Kotlin.Exerccicio_4__Questãoo_2_Kt" />
         <item itemvalue="Kotlin.Questão_4__Exercício_1_Kt" />
         <item itemvalue="Kotlin.Exercicio_3___Questão_3_Kt" />
         <item itemvalue="Kotlin.Exercicio_3___Questão_2_Kt" />
-        <item itemvalue="Kotlin.Exercicio_3___Questão_1_Kt" />
       </list>
     </recent_temporary>
   </component>
@@ -165,7 +164,21 @@
       <option name="project" value="LOCAL" />
       <updated>1681255208800</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Exercicio 4 ( Questão 1)">
+      <created>1681742911050</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1681742911050</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Exercicio 4 ( Questão 2)">
+      <created>1681743051984</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1681743051984</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -176,7 +189,9 @@
     <MESSAGE value="Exercicio 2 ( Questão 2)" />
     <MESSAGE value="Exercicio 2 ( Questão 3)" />
     <MESSAGE value="Exercicio 3 ( Questão 2)" />
-    <option name="LAST_COMMIT_MESSAGE" value="Exercicio 3 ( Questão 2)" />
+    <MESSAGE value="Exercicio 4 ( Questão 1)" />
+    <MESSAGE value="Exercicio 4 ( Questão 2)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Exercicio 4 ( Questão 2)" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
