@@ -40,7 +40,14 @@
     &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;
   }
 }</component>
-  <component name="RunManager" selected="Kotlin.Questão_4__Exercício_1_Kt">
+  <component name="RunManager" selected="Kotlin.Exerccicio_4__Questãoo_2_Kt">
+    <configuration name="Exerccicio_4__Questãoo_2_Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exerccicio_4__Questãoo_2_Kt" />
+      <module name="Semana_2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Exercicio_3___Questão_1_Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Exercicio_3___Questão_1_Kt" />
       <module name="Semana_2" />
@@ -62,13 +69,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Exercicio__2___Questão3_Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Exercicio__2___Questão3_Kt" />
-      <module name="Semana_2" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Questão_4__Exercício_1_Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Questão_4__Exercício_1_Kt" />
       <module name="Semana_2" />
@@ -77,19 +77,19 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Kotlin.Exerccicio_4__Questãoo_2_Kt" />
       <item itemvalue="Kotlin.Questão_4__Exercício_1_Kt" />
       <item itemvalue="Kotlin.Exercicio_3___Questão_2_Kt" />
       <item itemvalue="Kotlin.Exercicio_3___Questão_3_Kt" />
       <item itemvalue="Kotlin.Exercicio_3___Questão_1_Kt" />
-      <item itemvalue="Kotlin.Exercicio__2___Questão3_Kt" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.Exerccicio_4__Questãoo_2_Kt" />
         <item itemvalue="Kotlin.Questão_4__Exercício_1_Kt" />
         <item itemvalue="Kotlin.Exercicio_3___Questão_3_Kt" />
         <item itemvalue="Kotlin.Exercicio_3___Questão_2_Kt" />
         <item itemvalue="Kotlin.Exercicio_3___Questão_1_Kt" />
-        <item itemvalue="Kotlin.Exercicio__2___Questão3_Kt" />
       </list>
     </recent_temporary>
   </component>
